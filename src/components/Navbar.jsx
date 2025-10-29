@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className='w-full h-auto text-white p-5'>
       <div className='flex justify-between items-center'>
         <div className="left">
-          &lt; Developer /  &gt;
+          &lt; DevX /  &gt;
         </div>
 
         {/* Hamburger Button */}
