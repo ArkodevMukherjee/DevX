@@ -28,8 +28,9 @@ function App() {
       <main className="p-6 flex flex-col h-[400px] m-5">
         <div id="home" className="w-full flex flex-row items-center">
           <div className="left flex flex-col justify-center">
-            <h1 className="text-4xl font-bold mb-4">I am Arkodev Mukherjee</h1>
-            <p className="text-lg">I know html,css,javascript,react</p>
+            <h1 className="text-4xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-violet-900 to-pink-950">I am Arkodev Mukherjee</h1>
+            <br />
+            <p className="text-lg text-yellow-200">A second year B.Tech Student at Netaji Subhash Engineering College Studying Computer Science</p>
             <span className="container text-blue-500 rounded-lg w-10 h-10 flex items-center justify-center">
               <FaLinkedin className="w-6 h-6" />
             </span>
